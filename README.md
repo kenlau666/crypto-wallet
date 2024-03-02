@@ -1,27 +1,19 @@
-## 1. Introduction
+# A Basic Crypto Wallet
 
-Clearly describe the purpose and functionality of your app. Provide brief
-instructions on how to use your app, including any necessary configuration
+## Introduction
 
-## 2. Design Rationale
+This app is a crypto wallet built in Flutter. It provides basic functions like create or import a wallet. create a transaction, switch the network, display tokens and NFTs.
+To build the app, make sure you have install Flutter first and go to "pubspec.yaml" and click "pub get".
+You have to create a new file ".env" to store private key and the alchemy key yourself.
 
-Discuss the architectural and design choices made during the
-development of your app. This could include, but is not limited to, the decision to use
-Activities vs. Fragments, the choice of layout and views (e.g., LinearLayout,
-ConstraintLayout), and the use of specific data storage solutions (e.g., Preferences
-DataStore or Content Providers). Justify these decisions based on the requirements and
-the expected user experience.
+In the login page, you can import your own wallet or create a new one. After create a new one, simply copy and paste the phrases to login.
+The "Assets" and "NFTs" display the ERC-20 tokens and ERC-721 you have respectively.
+If you want to try to make a transaction, you can go to "Options" and click "Get ETH". There will be a transaction sent to you a few seconds later.
+"Discover" will lead to a new page listing the possible features in the future.
+If you want to take a look at the private key, simply click "Show keyphrase & private key", and enter "666" as the password.
+The drop down menu allows you to switch the network.
 
-## 3. Novel Features
+![img_1.png](img_1.png)
+![img.png](img.png)
 
-If your app includes innovative or unique features that distinguish it
-from typical applications, describe them here. Detail how these features enhance the
-user experience or improve the app’s functionality. If your app does not incorporate
-novel features, you may omit this section.
 
-## 4. Challenges and Future Improvements
-
-Reflect on the challenges encountered during
-the development process and how you addressed them. Additionally, propose potential
-improvements or additional features that could be implemented in future versions of
-the app to enhance its functionality, performance, or user experience

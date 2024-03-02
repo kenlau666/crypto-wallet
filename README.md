@@ -13,7 +13,8 @@ If you want to try to make a transaction, you can go to "Options" and click "Get
 If you want to take a look at the private key, simply click "Show keyphrase & private key", and enter "666" as the password.
 The drop down menu allows you to switch the network.
 
-![img_1.png](img_1.png)
-![img.png](img.png)
+![image](https://github.com/kenlau666/crypto-wallet/assets/98103533/b6004d55-ee41-4b08-ad12-faf18a47901c)
+![image](https://github.com/kenlau666/crypto-wallet/assets/98103533/03a1f28b-fb2c-4c83-b2b3-d01704a0420d)
+
 
 
